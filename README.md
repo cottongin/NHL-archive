@@ -1,1 +1,1 @@
-Plugin to support various functions orel[Dasd
+Plugin to provide various NHL-related functions like live scoring, stats, etc. 
