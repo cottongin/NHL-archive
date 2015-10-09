@@ -5,7 +5,7 @@ List of functions to implement in NHL plugin for supybot.  This is intended to m
 "API" exists (mostly just json data). See http://hfboards.hockeysfuture.com/showthread.php?t=1596119
 
 **Function**                    |   **Description**                                                                       | **Status**
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------|-----------------------------------------------------------------------------------------|--------------------------------------------
 stats <player> [year]           |   player's season stats                                                                 | TODO (API?)
 stats2 <player> [year]          |   use this for older players                                                            | TODO (API?) (oldstats)
 stats <player> career           |   player's career nhl totals                                                            | TODO (API?)
@@ -30,5 +30,5 @@ goalie <team> [date]            |   find which goalie will start for a team [use
 daily [date]                    |   daily leaders, top 5 skaters                                                          | exclude? (is this useful?)
 odds <league> <team> [date]     |   betting odds [uses yahoo.com]                                                         | exclude (implemented by Odds plugin)
 goal <team> <index> [date]      |   find the video clip for a goal                                                        | TODO
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------|-----------------------------------------------------------------------------------------|--------------------------------------------
 live scoring (GoalBot)          |   provides live scores and other major plays                                            | TODO (API)
