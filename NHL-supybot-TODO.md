@@ -18,7 +18,7 @@ nhlleaders <category>           |   seasonal stat leaders. g, a, pts, +/-, wins,
 cap <player/team>               |   player's salary info or team's cap situation [uses capgeek.com]                       | TODO (http://www.generalfanager.com/)
 summary <team> [date]           |   game's summary (score, attendance, shots, goals)                                      | TODO
 playoffs <team>                 |   up until playoffs: shows team's chances at making playoffs                            | TODO (is this an API thing?)
-playoffs [team]                 |   during playofs: shows playoff matches/outcome										  | TODO (see above)
+playoffs [team]                 |   during playofs: shows playoff matches/outcome                                         | TODO (see above)
 nhlnews <player>                |   latest news involving player [uses rotowire.com]                                      | TODO (google news too?)
 sched <team> [opponent] [count] |   finds next games involing team (oponnent for only vs that team)                       | exclude (just use next/last?)
 next# <team> [opponent]         |   like sched, but easier syntax (ie next3 toronto)                                      | TODO
