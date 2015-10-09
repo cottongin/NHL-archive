@@ -30,5 +30,5 @@ goalie <team> [date]            |   find which goalie will start for a team [use
 daily [date]                    |   daily leaders, top 5 skaters                                                          | exclude? (is this useful?)
 odds <league> <team> [date]     |   betting odds [uses yahoo.com]                                                         | exclude (implemented by Odds plugin)
 goal <team> <index> [date]      |   find the video clip for a goal                                                        | TODO
---------------------------------|-----------------------------------------------------------------------------------------|--------------------------------------------
+                                |                                                                                         |
 live scoring (GoalBot)          |   provides live scores and other major plays                                            | TODO (API)
